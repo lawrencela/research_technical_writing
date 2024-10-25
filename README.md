@@ -1,12 +1,12 @@
 # Research & Technical Writing
-This repository contains a selection of my research papers and technical writings. Other research papers of mine can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=51BdeosAAAAJ&hl=zh-TW). 
+This repository contains a selection of my research papers and technical writings. Other research papers of mine can be found in my [Google Scholar Profile](https://scholar.google.com/citations?user=51BdeosAAAAJ&hl=zh-TW). 
 
 ## Research Papers
 1. Control, Inner Topicalisation, and Focus Fronting in Mandarin Chinese: Modelling in Parallel Constraint-based Grammatical Architecture
    - Journal of Language Modelling
    - Year: 2024
    
-2.  Copy control and partial raising at syntax-semantics-discourse interfaces
+3.  Copy control and partial raising at syntax-semantics-discourse interfaces
    - Proceedings of International LFG Conference
    - Year: 2023
      
