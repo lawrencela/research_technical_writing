@@ -7,7 +7,7 @@ This repository contains a selection of my research papers and technical writing
       - Journal of Language Modelling
       - Year: 2024
    
-2.  Copy control and partial raising at syntax-semantics-discourse interfaces
+2.  Copy Control and Partial Raising at Syntax-semantics-discourse Interfaces
       - Proceedings of International LFG Conference
       - Year: 2023
      
@@ -26,6 +26,6 @@ Other research papers of mine can be found in my [Google Scholar Profile](https:
    
    Two sample writings that were used as course materials to teach the features of technical writing:
 
-      a. How to insert citations and bibliographies in Microsoft Word
+      a. How to Insert Citations and Bibliographies in Microsoft Word
 
       b. How to Make Your Instagram Account Private on Desktop
