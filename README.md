@@ -24,8 +24,6 @@ Other research papers of mine can be found in my [Google Scholar Profile](https:
      
 2. Applied English Writing Course Materials
       
-      - Two sample writings that were used as course materials to teach the features of technical writing:
+      - A sample writing that were used as course materials to teach the features of technical writing:
    
          a. How to Insert Citations and Bibliographies in Microsoft Word
-   
-         b. How to Make Your Instagram Account Private on Desktop
